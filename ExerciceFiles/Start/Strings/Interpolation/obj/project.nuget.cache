@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ntPEBeW4StvQ4s0MaH6En1Crq6HOZlkxIT4EJkHOTSAaMHzhM5LkStXBQMF7OVgf2iTuj5cnxtPjMxaXzfVtzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harou\\Desktop\\dotnet_c#\\ExerciceFiles\\Start\\Strings\\Interpolation\\Strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harou\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\harou\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\harou\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\harou\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
