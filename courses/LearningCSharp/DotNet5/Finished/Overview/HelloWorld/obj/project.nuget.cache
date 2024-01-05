@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "q29g7Bwq4seO+8XzQMWXmkJPw6LuYmmsPYE3euQKt7IfsUbuN84kT/KL8BybMj1khgpyHULIthy2RLUGfkRuOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harou\\Desktop\\dotnet_c#\\LearningCSharp\\DotNet5\\Finished\\Overview\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harou\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\harou\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\harou\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\harou\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
