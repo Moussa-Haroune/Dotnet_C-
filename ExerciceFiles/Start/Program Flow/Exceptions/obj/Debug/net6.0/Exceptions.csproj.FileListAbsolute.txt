@@ -1,0 +1,15 @@
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Program Flow\Exceptions\bin\Debug\net6.0\Exceptions.exe
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Program Flow\Exceptions\bin\Debug\net6.0\Exceptions.deps.json
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Program Flow\Exceptions\bin\Debug\net6.0\Exceptions.runtimeconfig.json
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Program Flow\Exceptions\bin\Debug\net6.0\Exceptions.dll
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Program Flow\Exceptions\bin\Debug\net6.0\Exceptions.pdb
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfo.cs
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.sourcelink.json
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.dll
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Program Flow\Exceptions\obj\Debug\net6.0\refint\Exceptions.dll
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.pdb
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.genruntimeconfig.cache
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Program Flow\Exceptions\obj\Debug\net6.0\ref\Exceptions.dll
