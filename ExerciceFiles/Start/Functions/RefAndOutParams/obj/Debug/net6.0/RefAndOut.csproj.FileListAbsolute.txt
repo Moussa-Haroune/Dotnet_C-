@@ -1,0 +1,15 @@
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Functions\RefAndOutParams\bin\Debug\net6.0\RefAndOut.exe
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Functions\RefAndOutParams\bin\Debug\net6.0\RefAndOut.deps.json
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Functions\RefAndOutParams\bin\Debug\net6.0\RefAndOut.runtimeconfig.json
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Functions\RefAndOutParams\bin\Debug\net6.0\RefAndOut.dll
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Functions\RefAndOutParams\bin\Debug\net6.0\RefAndOut.pdb
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Functions\RefAndOutParams\obj\Debug\net6.0\RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Functions\RefAndOutParams\obj\Debug\net6.0\RefAndOut.AssemblyInfoInputs.cache
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Functions\RefAndOutParams\obj\Debug\net6.0\RefAndOut.AssemblyInfo.cs
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Functions\RefAndOutParams\obj\Debug\net6.0\RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Functions\RefAndOutParams\obj\Debug\net6.0\RefAndOut.sourcelink.json
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Functions\RefAndOutParams\obj\Debug\net6.0\RefAndOut.dll
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Functions\RefAndOutParams\obj\Debug\net6.0\refint\RefAndOut.dll
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Functions\RefAndOutParams\obj\Debug\net6.0\RefAndOut.pdb
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Functions\RefAndOutParams\obj\Debug\net6.0\RefAndOut.genruntimeconfig.cache
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Functions\RefAndOutParams\obj\Debug\net6.0\ref\RefAndOut.dll
