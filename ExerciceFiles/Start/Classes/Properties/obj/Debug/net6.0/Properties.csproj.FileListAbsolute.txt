@@ -1,0 +1,15 @@
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Properties\bin\Debug\net6.0\Properties.exe
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Properties\bin\Debug\net6.0\Properties.deps.json
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Properties\bin\Debug\net6.0\Properties.dll
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Properties\bin\Debug\net6.0\Properties.pdb
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Properties\obj\Debug\net6.0\Properties.sourcelink.json
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Properties\obj\Debug\net6.0\Properties.dll
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Properties\obj\Debug\net6.0\refint\Properties.dll
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Properties\obj\Debug\net6.0\Properties.pdb
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Properties\obj\Debug\net6.0\ref\Properties.dll

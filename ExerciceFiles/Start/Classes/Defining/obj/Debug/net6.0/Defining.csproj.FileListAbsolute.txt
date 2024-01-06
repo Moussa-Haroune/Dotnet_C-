@@ -1,0 +1,15 @@
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Defining\obj\Debug\net6.0\Defining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Defining\obj\Debug\net6.0\Defining.AssemblyInfoInputs.cache
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Defining\obj\Debug\net6.0\Defining.AssemblyInfo.cs
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Defining\obj\Debug\net6.0\Defining.csproj.CoreCompileInputs.cache
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Defining\obj\Debug\net6.0\Defining.sourcelink.json
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Defining\bin\Debug\net6.0\Defining.exe
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Defining\bin\Debug\net6.0\Defining.deps.json
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Defining\bin\Debug\net6.0\Defining.runtimeconfig.json
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Defining\bin\Debug\net6.0\Defining.dll
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Defining\bin\Debug\net6.0\Defining.pdb
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Defining\obj\Debug\net6.0\Defining.dll
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Defining\obj\Debug\net6.0\refint\Defining.dll
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Defining\obj\Debug\net6.0\Defining.pdb
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Defining\obj\Debug\net6.0\Defining.genruntimeconfig.cache
+C:\Users\harou\Desktop\dotnet_c#\ExerciceFiles\Start\Classes\Defining\obj\Debug\net6.0\ref\Defining.dll
